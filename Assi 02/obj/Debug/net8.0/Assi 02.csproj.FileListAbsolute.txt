@@ -1,0 +1,14 @@
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\bin\Debug\net8.0\Assi 02.exe
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\bin\Debug\net8.0\Assi 02.deps.json
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\bin\Debug\net8.0\Assi 02.runtimeconfig.json
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\bin\Debug\net8.0\Assi 02.dll
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\bin\Debug\net8.0\Assi 02.pdb
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.dll
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\refint\Assi 02.dll
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.pdb
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\Assi 02.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Demo02Solution\Assi 02\obj\Debug\net8.0\ref\Assi 02.dll
